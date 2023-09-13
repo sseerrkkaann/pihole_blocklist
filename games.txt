@@ -1,3 +1,18 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Games List
+# Expires: 1 day
+# Homepage: https://github.com
+# Help: https://github.com/sseerrkkaann/pihole_blocklist/
+# License: https://unlicense.org
+# Total number of network filters: 2134
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation: https://paypal.me/
+# -------------------------------------[INFO]---------------------------------------
+#
+# Piracy list
+# ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 0000100.com
 0.0.0.0 007arcadegames.com
 0.0.0.0 01-casino.com
